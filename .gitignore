@@ -28,3 +28,20 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Java build files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
