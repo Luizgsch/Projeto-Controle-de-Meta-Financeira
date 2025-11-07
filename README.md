@@ -5,8 +5,6 @@ Aplicação simples em Java para definir metas de economia e acompanhar seu prog
 </p>
 # Controle de Meta Financeira 💰
 
-Aplicação simples em Java para definir uma meta de economia, registrar depósitos e acompanhar o progresso ao longo do tempo.
-
 ## 🚀 Funcionalidades
 - Definir meta financeira.
 - Registrar depósitos válidos (apenas valores positivos).
