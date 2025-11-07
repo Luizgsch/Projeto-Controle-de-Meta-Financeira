@@ -1,3 +1,8 @@
+<h1 align="center">Controle de Meta Financeira 💰</h1>
+
+<p align="center">
+Aplicação simples em Java para definir metas de economia e acompanhar seu progresso.
+</p>
 # Controle de Meta Financeira 💰
 
 Aplicação simples em Java para definir uma meta de economia, registrar depósitos e acompanhar o progresso ao longo do tempo.
